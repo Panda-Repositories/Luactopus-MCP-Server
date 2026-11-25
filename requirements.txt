@@ -1,0 +1,4 @@
+mcp[cli]>=2.3,<3
+python-dotenv>=1.0
+uvicorn>=0.30
+luaparser>=4.0.0   # used by the IronBrew 2 backend and the luaparser formatter

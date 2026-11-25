@@ -1,1 +1,11 @@
 /Data
+
+# Luactopus MCP runtime state
+.env
+.venv/
+logs/
+workspace/
+storage/
+__pycache__/
+*.pyc
+Tools/deobf_v14_7_v14_8_v14_9_full_fixed_v26/bin/*.exe
